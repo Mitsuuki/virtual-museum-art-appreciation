@@ -151,7 +151,6 @@ main {
   gap: 20px;
   justify-content: center;
   flex-wrap: wrap;
-  touch-action: none; /* Disable swipe gestures */
 }
 
 .artwork img {
